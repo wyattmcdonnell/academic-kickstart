@@ -33,7 +33,7 @@ education:
   - course: MSc in Microbiology & Immunology
     institution: Vanderbilt University
     year: 2018
-  - course: BSc (Hons) in Biologyy
+  - course: BSc (Hons) in Biology
     institution: Hillsdale College
     year: 2015
 
