@@ -1,3 +1,7 @@
+# git repository for personal website of Wyatt McDonnell
+
+I'm leaving the text below as free advertising for **Academic**, which made getting my own site up-and-running quickly possible.
+
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
