@@ -34,7 +34,7 @@ subtitle = ""
 
 [[feature]]
   icon = "spinner"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Single-cell genomics"
   description = "70%"
 +++
