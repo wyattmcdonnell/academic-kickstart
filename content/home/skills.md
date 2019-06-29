@@ -28,13 +28,13 @@ subtitle = ""
   
 [[feature]]
   icon = "chart-scatter"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Statistics"
   description = "60%"
 
 [[feature]]
   icon = "chart-network"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Single-cell genomics"
   description = "70%"
 +++
