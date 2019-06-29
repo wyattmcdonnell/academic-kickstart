@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cytomegalovirus (CMV) Epitope-Specific CD4+ T Cells Are Inflated in HIV+ CMV+ Subjects"
-authors: []
+authors: [Abana CO, Pilkinton MA, Gaudieri S, Chopra A, McDonnell WJ, Wanjalla CN, Barnett L, Gangula R, Hager C, Jung DK, Engelhardt BG, Jagasia MH, Klenerman P, Phillips EJ, Koelle DM, Kalams SA, Mallal SA]
 date: 2017-11-01
 doi: "10.4049/jimmunol.1700851"
 
