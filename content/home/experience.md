@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-05"
   date_end = ""
   description = """
-  Responsibilities include:
+  My current responsibilities include:
 
   * Analysing multi-omic single-cell data
   * Assay development
@@ -39,7 +39,15 @@ date_format = "Jan 2006"
   location = "Tennessee"
   date_start = "2019-05-31"
   date_end = "2019-08-04"
-  description = """Developed independent research program in systems immunology and high-dimensional data analysis."""
+  description = """
+  I developed an independent research program in systems immunology and high-dimensional data analysis. My
+  research interests included:
+
+  * HIV and immune co-morbidities
+  * TCR and BCR repertoire analysis
+  * Herpesvirus immunology
+  * Type IV hypersensitivity reactions
+  """
 
 [[experience]]
   title = "Graduate Research Fellow"
@@ -49,7 +57,8 @@ date_format = "Jan 2006"
   date_start = "2015-08-15"
   date_end = "2019-05-31"
   description = """
-  I was a graduate student in the laboratories of Simon Mallal and Ivelin Georgiev.
+  I was a graduate student in the laboratories of Simon Mallal and Ivelin Georgiev. My dissertation was titled
+  "Development and application of methods for the analysis of high-dimensional genetic and immunologic data."
   """
 
 +++
