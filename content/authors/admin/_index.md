@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Wyatt J. McDonnell
+name: Wyatt McDonnell
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Computational Biologist
+role: Research Instructor
 
 # Organizations/Affiliations
 organizations:
-- name: 10x Genomics
+- name: Vanderbilt University Medical Center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a computational biologist at 10x Genomics, where I get to work on exciting and innovative single-cell studies of the adaptive immune system.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Immunology
@@ -55,23 +55,19 @@ social:
   icon_pack: fab
   link: https://github.com/wyattmcdonnell
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
+  
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups:
+- Researchers
+- Visitors
 ---
 
-I am an American systems immunologist originally from Traverse City, Michigan. I trained at Vanderbilt University Medical Center as a computational biologist with focus on the adaptive immune system and its most polymorphic molecules—the T cell receptor, B cell receptor, and human leukocyte antigen. Some fast facts:
-
-* My favorite (and first) programming language is R.
-* I was a finalist in the National Spelling Bee!
-* I play piano and guitar.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
