@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Computational Biologist"
+  company = "10x Genomics"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2019-08-05"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Analysing multi-omic single-cell data
+  * Assay development
+  * Pipeline development
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Instructor"
+  company = "Vanderbilt University Medical Center"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tennessee"
+  date_start = "2019-05-31"
+  date_end = "2019-08-04"
+  description = """Developed independent research program in systems immunology and high-dimensional data analysis."""
+
+[[experience]]
+  title = "Graduate Research Fellow"
+  company = "Vanderbilt University Medical Center"
+  company_url = ""
+  location = "Tennessee"
+  date_start = "2015-08-15"
+  date_end = "2019-05-31"
+  description = """
+  I was a graduate student in the laboratories of Simon Mallal and Ivelin Georgiev.
+  """
 
 +++
