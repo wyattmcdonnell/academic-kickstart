@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I trained in systems immunology of the adaptive immune system at Vanderbilt University Medical Center, where I earned my PhD in microbiology and immunology. Currently, I get to work on some of the most exciting single-cell chemistry and tools to study the T cell and B cell receptor repertoire at 10x Genomics.
