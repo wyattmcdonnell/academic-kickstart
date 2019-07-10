@@ -77,7 +77,7 @@ contact_links = [
 #   https://developers.google.com/maps/documentation/javascript/get-api-key
 # To use OpenStreetMap tiles, set `map = 2`.
 # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-#   https://www.mapbox.com/studio/account/tokens
+#   https://www.mapbox.com/studio/account/tokensÍ
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #
 # Map provider:
@@ -85,8 +85,8 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
-map_api_key = "1"
+map = 2
+map_api_key = ""
 latitude = "37.694268"
 longitude = "-121.921317"
 zoom = 15
