@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/wyattmcdonnell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wyattmcdonnell.com
+  * I am wyattmcdonnell (https://keybase.io/wyattmcdonnell) on keybase.
+  * I have a public key ASCWqjAOK_ZPryXA2wJ5alxhFHkBf_tD7Q1JL9wfZZGScAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012096aa300e2bf64faf25c0db02796a5c611479017ffb43ed0d492fdc1f659192700a",
+      "host": "keybase.io",
+      "kid": "012096aa300e2bf64faf25c0db02796a5c611479017ffb43ed0d492fdc1f659192700a",
+      "uid": "42267847e6c7010afe097cacc6834619",
+      "username": "wyattmcdonnell"
+    },
+    "merkle_root": {
+      "ctime": 1562736798,
+      "hash": "038fd10ff4064d836628da761b96db2ea171b10841703a553008d9b4adcf809a9040f87e99de71ba89c86d6bf4c92a6731676eeed6754c3a6d59ab8fb3cfe60e",
+      "hash_meta": "d06184b19d63361a257779078b8621fd4439d12df728121d9d3d7f3d807c7cfc",
+      "seqno": 5727481
+    },
+    "service": {
+      "entropy": "zh45Yro2IX09nQ8uxWGlAd3n",
+      "hostname": "wyattmcdonnell.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1562736805,
+  "expire_in": 504576000,
+  "prev": "e92e92acb1e6ad4421bae4b7ea125e75367ec46d329eb5627adffebeca00e9d9",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglqowDiv2T68lwNsCeWpcYRR5AX/7Q+0NSS/cH2WRknAKp3BheWxvYWTESpcCCcQg6S6SrLHmrUQhuuS36hJedTZ+xG0ynrViet/+vsoA6dnEIJm+M1kVdkXxJrAWv8xJ746ALTZCRKCLcmQQ8M0Zr6DdAgHCo3NpZ8RAkizYYnIg6yCKgwLz2xKAw7q3l9gI99xSdYXxxIwsxTfJ1gnU8W6/jrqdCXMVMfcpXDVxXu9Ks3En2iYjkWK1AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFLRs60yKCthiXYzcJrd4cdLKpj8Wq1jzQvs2IVMykHKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wyattmcdonnell
+
+==================================================================
