@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "2019-08-05"
   date_end = ""
   description = """
-  Responsibilities include:
+  My current responsibilities span:
 
   * Analysing multi-omic single-cell data
-  * Assay development
+  * Assay and product development
   * Pipeline development
+  * Unit testing and software development (Rust, Python, R)
   """
 
 [[experience]]
@@ -39,7 +40,7 @@ date_format = "Jan 2006"
   location = "Tennessee"
   date_start = "2019-05-31"
   date_end = "2019-08-04"
-  description = """Developed independent research program in systems immunology and high-dimensional data analysis."""
+  description = """I developed and ran an independent research program in systems immunology and high-dimensional data analysis."""
 
 [[experience]]
   title = "Graduate Research Fellow"
