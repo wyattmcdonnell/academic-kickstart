@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cytomegalovirus (CMV) Epitope-Specific CD4+ T Cells Are Inflated in HIV+ CMV+ Subjects"
-authors: [Abana CO, Pilkinton MA, Gaudieri S, Chopra A, McDonnell WJ, Wanjalla CN, Barnett L, Gangula R, Hager C, Jung DK, Engelhardt BG, Jagasia MH, Klenerman P, Phillips EJ, Koelle DM, Kalams SA, Mallal SA]
-date: 2017-11-01
-doi: "10.4049/jimmunol.1700851"
+title: "IgG4‐related disease: Association with a rare gene variant expressed in cytotoxic T cells"
+authors: [Newman JH, Shaver A, Sheehan JH, Mallal SA, Stone JH, Pillai S, Bastarache L, Riebau D, Allard‐Chamard H, Stone WM, Perugino C, Pilkinton MA, Smith SA,  McDonnell WJ, Capra JA, Meiler J, Cogan J, Xing K, Mahajan VS, Mattoo H, Hamid R, Phillips JA, Undiagnosed Disease Network]
+date: 2019-04-16
+doi: "10.1002/mgg3.686"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-28T19:06:05-05:00
@@ -16,10 +16,10 @@ publishDate: 2019-06-28T19:06:05-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cytomegalovirus (CMV) Epitope-Specific CD4+ T Cells Are Inflated in HIV+ CMV+ Subjects"
-publication_short: "https://www.jimmunol.org/content/early/2017/09/29/jimmunol.1700851"
+publication: "IgG4‐related disease: Association with a rare gene variant expressed in cytotoxic T cells"
+publication_short: "https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.686"
 
-abstract: "Select CMV epitopes drive life-long CD8+ T cell memory inflation, but the extent of CD4 memory inflation is poorly studied. CD4+ T cells specific for human CMV (HCMV) are elevated in HIV+ HCMV+ subjects. To determine whether HCMV epitope–specific CD4+ T cell memory inflation occurs during HIV infection, we used HLA-DR7 (DRB1*07:01) tetramers loaded with the glycoprotein B DYSNTHSTRYV (DYS) epitope to characterize circulating CD4+ T cells in coinfected HLA-DR7+ long-term nonprogressor HIV subjects with undetectable HCMV plasma viremia. DYS-specific CD4+ T cells were inflated among these HIV+ subjects compared with those from an HIV− HCMV+ HLA-DR7+ cohort or with HLA-DR7–restricted CD4+ T cells from the HIV-coinfected cohort that were specific for epitopes of HCMV phosphoprotein-65, tetanus toxoid precursor, EBV nuclear Ag 2, or HIV gag protein. Inflated DYS-specific CD4+ T cells consisted of effector memory or effector memory–RA+ subsets with restricted TCRβ usage and nearly monoclonal CDR3 containing novel conserved amino acids. Expression of this near-monoclonal TCR in a Jurkat cell–transfection system validated fine DYS specificity. Inflated cells were polyfunctional, not senescent, and displayed high ex vivo levels of granzyme B, CX3CR1, CD38, or HLA-DR but less often coexpressed CD38+ and HLA-DR+. The inflation mechanism did not involve apoptosis suppression, increased proliferation, or HIV gag cross-reactivity. Instead, the findings suggest that intermittent or chronic expression of epitopes, such as DYS, drive inflation of activated CD4+ T cells that home to endothelial cells and have the potential to mediate cytotoxicity and vascular disease."
+abstract: "Family screening of a 48‐year‐old male with recently diagnosed IgG4‐related disease (IgG4‐RD) revealed unanticipated elevations in plasma IgG4 in his two healthy teenaged sons. We performed gene sequencing, immune cell studies, HLA typing, and analyses of circulating cytotoxic CD4+ T lymphocytes and plasmablasts to seek clues to pathogenesis. DNA from a separate cohort of 99 patients with known IgG4‐RD was also sequenced for the presence of genetic variants in a specific gene, FGFBP2. The three share a previously unreported heterozygous single base deletion in fibroblast growth factor binding protein type 2 (FGFBP2), which causes a frameshift in the coding sequence. The FGFBP2 protein is secreted by cytotoxic T‐lymphocytes and binds fibroblast growth factor. The variant sequence in the FGFBP2 protein is predicted to form a disordered random coil rather than a helical‐turn‐helix structure, unable to adopt a stable conformation. The proband and the two sons had 5–10‐fold higher numbers of circulating cytotoxic CD4 + T cells and plasmablasts compared to matched controls. The three members also share a homozygous missense common variant in FGFBP2 found in heterozygous form in ~40% of the population. This common variant was found in 73% of an independent, well characterized IgG4‐RD cohort, showing enrichment in idiopathic IgG4‐RD. The presence of a shared deleterious variant and homozygous common variant in FGFBP2 in the proband and sons strongly implicates this cytotoxic T cell product in the pathophysiology of IgG4‐RD. The high prevalence of a common FGFBP2 variant in sporadic IgG4‐RD supports the likelihood of participation in disease."
 
 # Summary. An optional shortened abstract.
 summary: ""

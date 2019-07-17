@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cytomegalovirus (CMV) Epitope-Specific CD4+ T Cells Are Inflated in HIV+ CMV+ Subjects"
-authors: [Abana CO, Pilkinton MA, Gaudieri S, Chopra A, McDonnell WJ, Wanjalla CN, Barnett L, Gangula R, Hager C, Jung DK, Engelhardt BG, Jagasia MH, Klenerman P, Phillips EJ, Koelle DM, Kalams SA, Mallal SA]
-date: 2017-11-01
-doi: "10.4049/jimmunol.1700851"
+title: "Adipose Tissue in Persons With HIV Is Enriched for CD4+ T Effector Memory and T Effector Memory RA+ Cells, Which Show Higher CD69 Expression and CD57, CX3CR1, GPR56 Co-expression With Increasing Glucose Intolerance"
+authors: [Wanjalla CN, McDonnell WJ, Barnett L, Simmons JD, Furch BD, Lima MC, Woodward BO, Fan R, Ye F, Ram R, Baker PG, Pilkinton MA, Mashayekhi M, Brown NJ, Mallal SA, Kalams SA, Koethe JR]
+date: 2019-03-19
+doi: "10.3389/fimmu.2019.00408"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-28T19:06:05-05:00
@@ -16,10 +16,10 @@ publishDate: 2019-06-28T19:06:05-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cytomegalovirus (CMV) Epitope-Specific CD4+ T Cells Are Inflated in HIV+ CMV+ Subjects"
-publication_short: "https://www.jimmunol.org/content/early/2017/09/29/jimmunol.1700851"
+publication: "Adipose Tissue in Persons With HIV Is Enriched for CD4+ T Effector Memory and T Effector Memory RA+ Cells, Which Show Higher CD69 Expression and CD57, CX3CR1, GPR56 Co-expression With Increasing Glucose Intolerance"
+publication_short: "https://www.frontiersin.org/articles/10.3389/fimmu.2019.00408/full"
 
-abstract: "Select CMV epitopes drive life-long CD8+ T cell memory inflation, but the extent of CD4 memory inflation is poorly studied. CD4+ T cells specific for human CMV (HCMV) are elevated in HIV+ HCMV+ subjects. To determine whether HCMV epitope–specific CD4+ T cell memory inflation occurs during HIV infection, we used HLA-DR7 (DRB1*07:01) tetramers loaded with the glycoprotein B DYSNTHSTRYV (DYS) epitope to characterize circulating CD4+ T cells in coinfected HLA-DR7+ long-term nonprogressor HIV subjects with undetectable HCMV plasma viremia. DYS-specific CD4+ T cells were inflated among these HIV+ subjects compared with those from an HIV− HCMV+ HLA-DR7+ cohort or with HLA-DR7–restricted CD4+ T cells from the HIV-coinfected cohort that were specific for epitopes of HCMV phosphoprotein-65, tetanus toxoid precursor, EBV nuclear Ag 2, or HIV gag protein. Inflated DYS-specific CD4+ T cells consisted of effector memory or effector memory–RA+ subsets with restricted TCRβ usage and nearly monoclonal CDR3 containing novel conserved amino acids. Expression of this near-monoclonal TCR in a Jurkat cell–transfection system validated fine DYS specificity. Inflated cells were polyfunctional, not senescent, and displayed high ex vivo levels of granzyme B, CX3CR1, CD38, or HLA-DR but less often coexpressed CD38+ and HLA-DR+. The inflation mechanism did not involve apoptosis suppression, increased proliferation, or HIV gag cross-reactivity. Instead, the findings suggest that intermittent or chronic expression of epitopes, such as DYS, drive inflation of activated CD4+ T cells that home to endothelial cells and have the potential to mediate cytotoxicity and vascular disease."
+abstract: "Chronic T cell activation and accelerated immune senescence are hallmarks of HIV infection, which may contribute to the increased risk of cardiometabolic diseases in people living with HIV (PLWH). T lymphocytes play a central role in modulating adipose tissue inflammation and, by extension, adipocyte energy storage and release. Here, we assessed the CD4+ and CD8+ T cell profiles in the subcutaneous adipose tissue (SAT) and blood of non-diabetic (n = 9; fasting blood glucose [FBG] < 100 mg/dL), pre-diabetic (n = 8; FBG = 100–125 mg/dL) and diabetic (n = 9; FBG ≥ 126 mg/dL) PLWH, in addition to non- and pre-diabetic, HIV-negative controls (n = 8). SAT was collected by liposuction and T cells were extracted by collagenase digestion. The proportion of naïve (TNai) CD45RO−CCR7+, effector memory (TEM) CD45RO+CCR7−, central memory (TCM) CD45RO+CCR7+, and effector memory revertant RA+(TEMRA) CD45RO−CCR7− CD4+ and CD8+ T cells were measured by flow cytometry. CD4+ and CD8+ TEM and TEMRA were significantly enriched in SAT of PLWH compared to blood. The proportions of SAT CD4+ and CD8+ memory subsets were similar across metabolic status categories in the PLWH, but CD4+ T cell expression of the CD69 early-activation and tissue residence marker, particularly on TEM cells, increased with progressive glucose intolerance. Use of t-distributed Stochastic Neighbor Embedding (t-SNE) identified a separate group of predominantly CD69lo TEM and TEMRA cells co-expressing CD57, CX3CR1, and GPR56, which were significantly greater in diabetics compared to non-diabetics. Expression of the CX3CR1 and GPR56 markers indicate these TEM and TEMRA cells may have anti-viral specificity. Compared to HIV-negative controls, SAT from PLWH had an increased CD8:CD4 ratio, but the distribution of CD4+ and CD8+ memory subsets was similar irrespective of HIV status. Finally, whole adipose tissue from PLWH had significantly higher expression of TLR2, TLR8, and multiple chemokines potentially relevant to immune cell homing compared to HIV-negative controls with similar glucose tolerance."
 
 # Summary. An optional shortened abstract.
 summary: ""
