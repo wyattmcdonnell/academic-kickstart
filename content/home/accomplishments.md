@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-05-15"
-  date_end = "2019-05-15"
+  date_end = ""
   description = "Awarded to outstanding PhD candidates for scholarly output, collaboration, and service."
 
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-10-12"
-  date_end = "2018-10-13"
+  date_end = ""
   description = "Recognized for exceptional early-career research."
 
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-03-15"
-  date_end = "2018-03-16"
+  date_end = ""
   description = "Awarded to meritorious young investigators in the field of HIV research."
 
 [[item]]
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2015-08-15"
-  date_end = "2016-08-15"
+  date_end = ""
   description = "Awarded to exceptional incoming PhD trainees."
 
 +++
