@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cytomegalovirus (CMV) Epitope-Specific CD4+ T Cells Are Inflated in HIV+ CMV+ Subjects"
-authors: [Abana CO, Pilkinton MA, Gaudieri S, Chopra A, McDonnell WJ, Wanjalla CN, Barnett L, Gangula R, Hager C, Jung DK, Engelhardt BG, Jagasia MH, Klenerman P, Phillips EJ, Koelle DM, Kalams SA, Mallal SA]
-date: 2017-11-01
-doi: "10.4049/jimmunol.1700851"
+title: "Multi-donor longitudinal antibody repertoire sequencing reveals the existence of public antibody clonotypes in HIV-1 infection"
+authors: [Setliff I, McDonnell WJ, Raju N, Bombardi RG, Murji AA, Scheepers C, Ziki R, Mynhardt C, Shepherd BE, Mamchak AA, Garrett N, Karim SA, Mallal SA, Crowe JE, Morris L, Georgiev IS]
+date: 2018-06-03
+doi: "10.1016/j.chom.2018.05.001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-28T19:06:05-05:00
@@ -16,10 +16,10 @@ publishDate: 2019-06-28T19:06:05-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cytomegalovirus (CMV) Epitope-Specific CD4+ T Cells Are Inflated in HIV+ CMV+ Subjects"
-publication_short: "https://www.jimmunol.org/content/early/2017/09/29/jimmunol.1700851"
+publication: "Multi-donor longitudinal antibody repertoire sequencing reveals the existence of public antibody clonotypes in HIV-1 infection"
+publication_short: "https://www.sciencedirect.com/science/article/pii/S1931312818302282"
 
-abstract: "Select CMV epitopes drive life-long CD8+ T cell memory inflation, but the extent of CD4 memory inflation is poorly studied. CD4+ T cells specific for human CMV (HCMV) are elevated in HIV+ HCMV+ subjects. To determine whether HCMV epitope–specific CD4+ T cell memory inflation occurs during HIV infection, we used HLA-DR7 (DRB1*07:01) tetramers loaded with the glycoprotein B DYSNTHSTRYV (DYS) epitope to characterize circulating CD4+ T cells in coinfected HLA-DR7+ long-term nonprogressor HIV subjects with undetectable HCMV plasma viremia. DYS-specific CD4+ T cells were inflated among these HIV+ subjects compared with those from an HIV− HCMV+ HLA-DR7+ cohort or with HLA-DR7–restricted CD4+ T cells from the HIV-coinfected cohort that were specific for epitopes of HCMV phosphoprotein-65, tetanus toxoid precursor, EBV nuclear Ag 2, or HIV gag protein. Inflated DYS-specific CD4+ T cells consisted of effector memory or effector memory–RA+ subsets with restricted TCRβ usage and nearly monoclonal CDR3 containing novel conserved amino acids. Expression of this near-monoclonal TCR in a Jurkat cell–transfection system validated fine DYS specificity. Inflated cells were polyfunctional, not senescent, and displayed high ex vivo levels of granzyme B, CX3CR1, CD38, or HLA-DR but less often coexpressed CD38+ and HLA-DR+. The inflation mechanism did not involve apoptosis suppression, increased proliferation, or HIV gag cross-reactivity. Instead, the findings suggest that intermittent or chronic expression of epitopes, such as DYS, drive inflation of activated CD4+ T cells that home to endothelial cells and have the potential to mediate cytotoxicity and vascular disease."
+abstract: "Characterization of single antibody lineages within infected individuals has provided insights into the development of Env-specific antibodies. However, a systems-level understanding of the humoral response against HIV-1 is limited. Here, we interrogated the antibody repertoires of multiple HIV-infected donors from an infection-naive state through acute and chronic infection using next-generation sequencing. This analysis revealed the existence of “public” antibody clonotypes that were shared among multiple HIV-infected individuals. The HIV-1 reactivity for representative antibodies from an identified public clonotype shared by three donors was confirmed. Furthermore, a meta-analysis of publicly available antibody repertoire sequencing datasets revealed antibodies with high sequence identity to known HIV-reactive antibodies, even in repertoires that were reported to be HIV naive. The discovery of public antibody clonotypes in HIV-infected individuals represents an avenue of significant potential for better understanding antibody responses to HIV-1 infection, as well as for clonotype-specific vaccine development."
 
 # Summary. An optional shortened abstract.
 summary: ""
