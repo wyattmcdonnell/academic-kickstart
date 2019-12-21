@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "2019-08-05"
   date_end = ""
   description = """
-  My current responsibilities span:
+  I wear at few hats at 10x Genomics. My current responsibilities include:
 
+  * Business and strategy development for pharma and immune-focused products
   * Analysing multi-omic single-cell data
-  * Assay and product development
-  * Pipeline development
+  * Computational analysis in support of assay/product development
+  * Pipeline development and maintenance
   * Unit testing and software development (Rust, Python, R)
   """
 
@@ -50,7 +51,7 @@ date_format = "Jan 2006"
   date_start = "2015-08-15"
   date_end = "2019-05-31"
   description = """
-  I was a graduate student in the laboratories of Simon Mallal and Ivelin Georgiev.
+  I was a graduate student in the laboratories of Ivelin Georgiev and Simon Mallal.
   """
 
 +++
