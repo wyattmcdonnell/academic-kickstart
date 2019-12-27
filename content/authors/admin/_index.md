@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Computational Biologist
+role: Computational Immunologist
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://10xgenomics.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a computational biologist at 10x Genomics, where I get to work on single-cell technology and the adaptive immune system.
+bio: I'm a computational immunologist at 10x Genomics, where I get to work on single-cell technology and the adaptive immune system.
 
 interests:
 - Immunology
