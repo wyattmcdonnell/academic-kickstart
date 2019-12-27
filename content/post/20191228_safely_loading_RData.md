@@ -1,7 +1,7 @@
 ---
 title: "Loading multiple RData objects without overwriting your existing objects"
 date: 2019-12-27T12:29:15-06:00
-draft: true
+draft: false
 ---
 About 3 times a year, I forget how to load in multiple RData objects into a session. I always remember `load()` and I always get confused when an object in my environment changes and something breaks. This is because `load()` overwrites identically named objects. 
 
