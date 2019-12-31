@@ -1,7 +1,7 @@
 ---
 title: "20191227_TXG_basic_stock_visualization"
 date: 2019-12-27T15:23:35-06:00
-draft: true
+draft: false
 ---
 So it turns out there's some pretty easy-to-use and helpful R packages for analyzing and visualizing financial data. I might update this later to include some material on ARIMA and other forecasting methods but for now here's a quick overview of 3 plots I was able to figure out in a few minutes:
 
