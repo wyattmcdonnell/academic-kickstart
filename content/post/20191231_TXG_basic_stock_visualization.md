@@ -1,5 +1,5 @@
 ---
-title: "20191227_TXG_basic_stock_visualization"
+title: "Basic stock price visualization and analysis in R"
 date: 2019-12-27T15:23:35-06:00
 draft: false
 ---
