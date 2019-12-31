@@ -20,7 +20,7 @@ chartSeries(txg.tkr, name='10x Genomics price since IPO')
 addMACD() # Add moving average convergence divergence
 addBBands() # Add Bollinger bands
 ```
-![Figure 1](20191231_Fig1.png)
+![Figure 1](/img/20191231_Fig1.png)
 
 Next, here's a figure looking at daily, weekly, and monthly averages of $TXG over time:
 
@@ -37,7 +37,7 @@ ggplot() +
     scale_color_manual(values = c("#f3c548", "#42a0da", "#84bb5b")) + 
     labs(color = 'Trendline')
 ```
-![Figure 2](20191231_Fig2.png)
+![Figure 2](/img/20191231_Fig2.png)
 
 Finally, we can use the `stl()` function from `stats` to do time series decomposition (breaking time series data down into components explained by seasonality/periodicity in relation to increase or decrease in price over time). First, let's test for seasonality/whether $TXG has been stationary over the first few months of pricing:
 ```
@@ -57,6 +57,6 @@ price_ma = ts(na.omit(df$ma7), frequency=30)
 decomp = stl(price_ma, s.window="periodic", robust = TRUE)
 plot(decomp)
 ```
-![Figure 3](20191231_Fig3.png)
+![Figure 3](/img/20191231_Fig3.png)
 
 As we can see, there doesn't seem to be readily apparent periodicity in the stock price of $TXG trades from 12 September 2019 to 31 December 2019.
