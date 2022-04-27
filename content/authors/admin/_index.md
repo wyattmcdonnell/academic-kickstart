@@ -18,12 +18,13 @@ organizations:
   url: "https://10xgenomics.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a computational immunologist at [10x Genomics](https://10xgenomics.com), where I get to work on single-cell technology and the adaptive immune system.
+bio: I'm a computational immunologist and technologist at [10x Genomics](https://10xgenomics.com). I'm interested in impactful work that improves human health.
 
 interests:
-- Immunology
-- Computational biology
+- Antibodies
+- Computational immunology
 - Single-cell 'omics
+
 
 education:
   courses:
@@ -70,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I trained in systems immunology of the adaptive immune system at Vanderbilt University Medical Center, where I earned my PhD and MSc in microbiology and immunology. Currently, I work on the most exciting single-cell chemistry and tools to study T cells and B cells at single-cell resolution at [10x Genomics](https://10xgenomics.com).
+I trained in systems immunology of the adaptive immune system at Vanderbilt University Medical Center, where I earned my PhD and MSc in microbiology and immunology. I work on single cell immunotechnology at [10x Genomics](https://10xgenomics.com) and think antibodies are the most fascinating molecules of the most fascinating biological system in existence.

@@ -18,12 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Computational Immunologist, BEAM Technical Lead"
+  company = "10x Genomics, Inc."
+  company_url = "https://10xgenomics.com"
+  location = "California"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  I was promoted for:
+  
+  * My intellectual property contributions
+  * My contributions and leadership on the BEAM product
+  * Developing a new strategic initiative
+  """
+
+[[experience]]
+  title = "Computational Immunologist, BEAM Technical Lead"
+  company = "10x Genomics, Inc."
+  company_url = "https://10xgenomics.com"
+  location = "California"
+  date_start = "2020-03-01"
+  date_end = "2021-09-01"
+  description = """
+  I invented, developed, and led the Barcode-Enabled Antigen Mapping (BEAM) product, including:
+
+  * Developing the computational pipeline and associated tooling
+  * A ton of IP and patent development (see my Google Scholar profile)
+  * Discovering and protecting the first therapeutic intellectual property at 10x
+  * Developing the controls and validation strategy
+  * Operating a "cross-functional" team in a "matrix organization"
+  """ 
+
+[[experience]]
   title = "Computational Immunologist"
-  company = "10x Genomics"
-  company_url = ""
+  company = "10x Genomics, Inc."
+  company_url = "https://10xgenomics.com"
   location = "California"
   date_start = "2019-08-05"
-  date_end = ""
+  date_end = "2020-03-01"
   description = """
   I wear at few hats at 10x Genomics. My current responsibilities include:
 
