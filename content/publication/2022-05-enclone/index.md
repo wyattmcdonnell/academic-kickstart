@@ -38,9 +38,9 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-url: https://twitter.com/WyattMcDonnell/status/1519086894604111872
-icon_pack: fab
-icon: twitter
+#url: https://twitter.com/WyattMcDonnell/status/1519086894604111872
+#icon_pack: fab
+#icon: twitter
 
 url_pdf: https://www.biorxiv.org/content/10.1101/2022.04.21.489084v1.full.pdf
 url_code: https://github.com/10XGenomics/enclone
