@@ -18,7 +18,7 @@ organizations:
   url: "https://10xgenomics.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a computational immunologist and technologist at [10x Genomics](https://10xgenomics.com). I'm interested in impactful work that improves human health.
+bio: I'm a computational immunologist by training, and found my way into biotechnology as an inventor and technologist along the way. I'm interested in impactful work that improves human health by harnessing human adaptive immunity.
 
 interests:
 - Antibodies
@@ -71,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I trained in systems immunology of the adaptive immune system at Vanderbilt University Medical Center, where I earned my PhD and MSc in microbiology and immunology. I work on single cell immunotechnology at [10x Genomics](https://10xgenomics.com) and think antibodies are the most fascinating molecules of the most fascinating biological system in existence.
+I'm an inventor, technologist, and immunologist. Most recently, I launched the BEAM product (check out [Keith Robison's blog post](http://omicsomics.blogspot.com/2021/02/more-details-on-10xs-sample-profiling.html)), worked on Immune Profiling v2, and developed therapeutic and core intellectual property at [10x Genomics](https://10xgenomics.com). 
+
+I think antibodies and the adaptive immune system are the singular most powerful and interesting product evolution has yielded. My academic background is in human adaptive immunology and disease thereof. You can find my most recent work on [my Google Scholar profile](https://scholar.google.com/citations?user=DclwmYAAAAAJ&hl=en).  
