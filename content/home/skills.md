@@ -15,38 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "60%"
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "50%"
-
-[[feature]]
-  icon = "chart-bar"
+  icon = "syringe"
   icon_pack = "far"
-  name = "Statistics"
-  description = "60%"
+  name = "Immunology"
+  description = "Adaptive immunity & biotech"  
 
 [[feature]]
-  icon = "spinner"
+  icon = "code-branch"
   icon_pack = "fas"
-  name = "Single-cell genomics"
-  description = "70%"
+  name = "Programming"
+  description = "R, SQL, Python, Rust, etm."
+
+[[feature]]
+  icon = "scale-balanced"
+  icon_pack = "far"
+  name = "IP development"
+  description
 
 [[feature]]
   icon = "gg-circle"
   icon_pack = "fab"
   name = "Data visualization"
-  description = "80%"
+  description = "1 picture = 1000 words%"
 
 [[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Spanish"
-  description = "80%"
+  description = "El segundo mas hablado"
+
+[[feature]]
+  icon = "piano"
+  icon_pack = "fas"
+  name = "Piano"
+  description = "2+ decades"
 +++
