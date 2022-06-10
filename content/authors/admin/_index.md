@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I'm an inventor, technologist, and immunologist. Most recently, I launched the BEAM product (check out [Keith Robison's blog post](http://omicsomics.blogspot.com/2021/02/more-details-on-10xs-sample-profiling.html)), worked on Immune Profiling v2, and developed therapeutic and core intellectual property at [10x Genomics](https://10xgenomics.com). 
+I'm an [inventor](https://patents.google.com/?inventor=Wyatt+James+McDonnell,Wyatt+McDonnell,James+Wyatt+MCDONNELL&sort=new), technologist, and immunologist. Most recently, I launched the BEAM product (check out [Keith Robison's blog post](http://omicsomics.blogspot.com/2021/02/more-details-on-10xs-sample-profiling.html)), worked on Immune Profiling v2, and developed therapeutic and core intellectual property at [10x Genomics](https://10xgenomics.com). 
 
 I think antibodies and the adaptive immune system are the singular most powerful and interesting product evolution has yielded. My academic background is in human adaptive immunology and disease thereof. You can find my most recent work on [my Google Scholar profile](https://scholar.google.com/citations?user=DclwmYAAAAAJ&hl=en).  
