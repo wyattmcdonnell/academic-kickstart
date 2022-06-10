@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Computational Immunologist
+role: American adaptive immunologist
 
 # Organizations/Affiliations
 organizations:
-- name: 10x Genomics
-  url: "https://10xgenomics.com"
+- name: Exploring new directions
+  url: "https://wyattmcdonnell.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a computational immunologist by training, and found my way into biotechnology as an inventor and technologist along the way. I'm interested in impactful work that improves human health by harnessing human adaptive immunity.
