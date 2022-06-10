@@ -51,7 +51,7 @@ time_format = "15:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "wyatt mcdonnell at g mail dot com"
-address = "10x Genomics, 6230 Stoneridge Mall Rd, Pleasanton, California, 94588, USA"
+address = "Walnut Creek, California, 94598, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """M-F 0800 to 1700"""
