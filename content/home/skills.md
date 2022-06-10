@@ -48,5 +48,5 @@ subtitle = ""
   icon = "piano"
   icon_pack = "fas"
   name = "Piano"
-  description = "2+ decades"
+  description = "Since I was 6"
 +++
