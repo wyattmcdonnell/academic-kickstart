@@ -30,7 +30,7 @@ subtitle = ""
   icon = "scale-balanced"
   icon_pack = "far"
   name = "IP development"
-  description
+  description = "Patents galore"
 
 [[feature]]
   icon = "gg-circle"
