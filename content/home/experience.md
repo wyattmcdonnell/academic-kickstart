@@ -72,7 +72,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-05"
   date_end = "2020-03-01"
   description = """
-  I wore a few hats at 10x Genomics. My current responsibilities include:
+  I wore a few hats at 10x Genomics. My responsibilities included:
 
   * Business and strategy development for pharma and immune-focused products
   * Analysing multi-omic single-cell data
