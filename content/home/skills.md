@@ -27,7 +27,7 @@ subtitle = ""
   description = "R, SQL, Python, Rust, etm."
 
 [[feature]]
-  icon = "fa-balance-scale"
+  icon = "balance-scale"
   icon_pack = "fas"
   name = "IP development"
   description = "Patents galore"
@@ -45,7 +45,7 @@ subtitle = ""
   description = "El segundo mas hablado"
 
 [[feature]]
-  icon = "fa-piano"
+  icon = "music"
   icon_pack = "fas"
   name = "Piano"
   description = "Since I was 6"
