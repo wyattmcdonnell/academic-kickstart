@@ -45,8 +45,8 @@ subtitle = ""
   description = "El segundo mas hablado"
 
 [[feature]]
-  icon = "piano"
+  icon = "guitar"
   icon_pack = "fas"
-  name = "Piano"
-  description = "Since I was 6"
+  name = "Piano & guitar"
+  description = "Piano since 6, guitar since 10"
 +++
