@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Exploring new directions"
-  company = "SF / Bay Area"
+  title = "Co-Founder and CEO"
+  company = "A new stealth startup in the SF Bay Area"
   company_url = "https://wyattmcdonnell.com"
   location = "California"
-  date_start = "2022-06-09"
+  date_start = "2022-07-14"
   date_end = ""
   description = """
-  I'm taking some time off to recharge my batteries. Let's chat if you're interested in:
+  I have the immense privilege to be building a new biotechnology company. Let's chat if you're interested in:
 
   * Adaptive immunity
   * Emerging biotechnologies
