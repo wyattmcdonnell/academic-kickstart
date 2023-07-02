@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2022-07-14"
   date_end = ""
   description = """
-  I have the immense privilege to be building a new antibody biotech with some lovely humans. Infinimmune creates exceptional drugs for humans, starting from humans. Let's chat if you're interested in:
+  I have the immense privilege to be building a new antibody biotech with some lovely humans. [Infinimmune](https://infinimmune.com) creates exceptional drugs for humans, starting from humans. Let's chat if you're interested in:
 
   * Adaptive immunity
   * Emerging biotechnologies
