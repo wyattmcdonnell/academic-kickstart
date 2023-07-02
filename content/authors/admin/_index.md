@@ -14,8 +14,8 @@ role: American adaptive immunologist
 
 # Organizations/Affiliations
 organizations:
-- name: Exploring new directions
-  url: "https://wyattmcdonnell.com"
+- name: Exploring adaptive immunity
+  url: "https://infinimmune.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a computational immunologist by training, and found my way into biotechnology as an inventor and technologist along the way. I'm interested in impactful work that improves human health by harnessing human adaptive immunity.
