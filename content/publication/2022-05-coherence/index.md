@@ -4,7 +4,7 @@
 title: "Functional antibodies exhibit light chain coherence"
 authors: [Jaffe DB, Shahi P, Adams BA, Chrisman AM, Finnegan PM, Raman N, Royall AE, Tsai F, Vollbrecht T, Reyes DS, McDonnell WJ]
 date: 2022-04-25
-doi: "10.1101/2022.04.23.489267"
+doi: "10.1038/s41586-022-05371-z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-28T19:06:05-05:00
