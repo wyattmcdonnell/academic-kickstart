@@ -19,17 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Co-Founder and CEO"
-  company = "A new stealth startup in the SF Bay Area"
-  company_url = "https://wyattmcdonnell.com"
-  location = "California"
+  company = "Infinimmune"
+  company_url = "https://infinimmune.com"
+  location = "Alameda, California"
   date_start = "2022-07-14"
   date_end = ""
   description = """
-  I have the immense privilege to be building a new biotechnology company. Let's chat if you're interested in:
+  I have the immense privilege to be building a new antibody biotech with some lovely humans. Infinimmune creates exceptional drugs for humans, starting from humans. Let's chat if you're interested in:
 
   * Adaptive immunity
   * Emerging biotechnologies
   * Human immunology
+
+For more news from Infinimmune, including company financing and interviews, [please click here](https://infinimmune.com/news). 
   """
 
 [[experience]]
